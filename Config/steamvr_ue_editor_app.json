@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.metanomads'-gallery-19764885.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "F:/MetaNomads_Constructions/MetaNomads_Gallery/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "MetaNomads' Gallery-19764885 [UE Editor]"
+				}
+			}
+		}
+	]
+}
